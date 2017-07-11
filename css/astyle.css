@@ -1,0 +1,59 @@
+/*
+*{
+  border: 1px solid red;
+}
+*/
+#aheader{
+  background: black
+}
+a #header alogo{
+  color: white
+  text-decoration:none;
+  width: 49%
+  display: inline-block;
+}
+#header anav{
+  width: 49%
+text-align: right;
+}
+header a:link{
+  color: #ffffff;
+  text-decoration:none;
+  display: inline-block;
+}
+header li{
+  display:inline-block;
+  text-align: right;
+}
+
+
+/*a--> <a>
+
+a:link
+{
+  color: #ffffff;
+}
+
+ul li
+{
+
+  display: block;
+  display: inline;
+  width: 60px;
+  float: right;
+
+  list-style-type: none;
+  margin:0;
+  padding:0;
+
+}
+li
+{
+float:left;
+}
+a
+{
+display:block;
+width:60px;
+}
+*/
